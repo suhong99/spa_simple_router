@@ -11,3 +11,5 @@ npm run dev
 
 힌트) window.onpopstate , window.location.pathname History API( pushState )
 
+**상세 설명**
+https://ungumungum.tistory.com/142
